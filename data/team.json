@@ -133,8 +133,13 @@
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/SLotutovici",
+            "link": "https://twitter.com/SerjLtt",
             "name": "Twitter"
+          },
+          {
+            "icon": "github",
+            "link": "https://github.com/serj-lotutovici",
+            "name": "Github"
           }
         ],
         "title": ""
