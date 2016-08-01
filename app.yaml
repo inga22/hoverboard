@@ -1,5 +1,5 @@
 application: devfesthh
-version: 9
+version: 10
 runtime: python27
 api_version: 1
 threadsafe: yes
@@ -24,6 +24,9 @@ skip_files:
 - (.*/)?.git/.*
 
 handlers:
+- url: /.well-known/acme-challenge/.*
+  script: letsencrypt.app
+
 - url: /bower_components
   static_dir: build/bundled/bower_components
   secure: always
@@ -59,3 +62,6 @@ handlers:
   upload: build/bundled/index.html
   secure: always
 
+libraries:
+- name: webapp2
+  version: '2.5.2'
