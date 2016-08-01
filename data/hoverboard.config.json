@@ -216,10 +216,10 @@
       "longitude": 9.99902
     },
     "images": [
-      "http://mindspace.me/wp-content/uploads/2015/11/hamburg_upper_slide.jpg",
-      "http://mindspace.me/wp-content/uploads/2015/11/hamburg-upper-slider-1.jpg",
-      "http://mindspace.me/wp-content/uploads/2015/11/hamburg_upper_slider_2.jpg",
-      "http://mindspace.me/wp-content/uploads/2015/11/hamburg_upper_slider_3.jpg"
+      "/images/hamburg_upper_slide.jpg",
+      "/images/hamburg-upper-slider-1.jpg",
+      "/images/hamburg_upper_slider_2.jpg",
+      "/images/hamburg_upper_slider_3.jpg"
     ]
   },
   "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
