@@ -190,6 +190,11 @@
       "name": "gplus",
       "nickname": "107859748046093089218",
       "url": "https://plus.google.com/107859748046093089218"
+    },
+    {
+      "name": "twitter",
+      "nickname": "Women Techmakers Hamburg",
+      "url": "https://twitter.com/WTM_Hamburg"
     }
   ],
   "tweetsSource": "/data/tweets.json",
