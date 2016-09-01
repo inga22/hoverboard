@@ -2,19 +2,128 @@
     "1": {
       "id": 1,
       "featured": "true",
-      "name": "",
-      "title": "",
-      "company": "",
-      "companyLogo": "",
+      "name": "David Cifuentes",
+      "title": "Software Engineer",
+      "company": "Zalando",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/dzalando-se.png",
       "country": "",
-      "photoUrl": "",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/david.jpg",
       "shortBio": "",
-      "bio": "",
+      "bio": "David is a software engineer at Zalando SE and Google Developer Expert (GDE) for Cloud Platform based in Berlin, Germany. For the past few years, he's been developing and deploying to the cloud IoT and enterprise software projects. He is also passionate about agile methodologies, particularly Scrum. In his spare time he enjoys travelling, running and road cycling.",
       "tags": [
+        "Cloud"
       ],
       "badges": [
+        {
+          "name": "GDE",
+          "description": "Google Developer Expert for Cloud Platform",
+          "link": "https://developers.google.com/experts/people/david-cifuentes"
+        }
       ],
       "socials": [
+        {
+          "name": "GitHub",
+          "icon": "github",
+          "link": "https://github.com/dcifuen"
+        },
+        {
+          "name": "Twitter",
+          "icon": "twitter",
+          "link": "https://twitter.com/dcifuen"
+        }
+      ]
+    },
+    "2": {
+      "id": 2,
+      "featured": "true",
+      "name": "Orhan Obut",
+      "title": "Lead Mobile Engineer",
+      "company": "Blacklane",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/blacklane.jpg",
+      "country": "",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/orhan.jpg",
+      "shortBio": "",
+      "bio": "A community driven regular android engineer. Focused on mostly contributing open source and writing blog posts. Still learning a lot, even for basic things and happy about it.",
+      "tags": [
+        "Android"
+      ],
+      "badges": [
+        {
+          "name": "GDE",
+          "description": "Google Developer Expert for Android",
+          "link": "https://developers.google.com/experts/people/orhan-obut"
+        }
+      ],
+      "socials": [
+        {
+          "name": "GitHub",
+          "icon": "github",
+          "link": "https://github.com/orhanobut"
+        },
+        {
+          "name": "Twitter",
+          "icon": "twitter",
+          "link": "https://twitter.com/orhanobut"
+        },
+        {
+          "name": "Medium",
+          "icon": "medium",
+          "link": "https://medium.com/@orhanobut"
+        },
+        {
+          "name": "StackOverflow",
+          "icon": "stackoverflow",
+          "link": "http://stackoverflow.com/users/579671/orhan-obut"
+        }
+      ]
+    },
+    "3": {
+      "id": 3,
+      "featured": "true",
+      "name": "Mario Bodemann",
+      "title": "",
+      "company": "Contentful GmbH",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/contentful.png",
+      "country": "",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/mario.jpg",
+      "shortBio": "",
+      "bio": "Google Developer Group Co-Organiser @Berlindroid<br><br>Android and Java Evangelist @Contentful<br>Software Engineer @Memorado and @HERE<br>Graduate Software Engineer @Wooga<br>Research Associate @HHIFraunhofer<br><br>Loves to play with technology, talking about it, and people",
+      "tags": [
+        "Android"
+      ],
+      "badges": [
+        {
+          "name": "GDG",
+          "description": "GDG Berlin Android",
+          "link": "https://developers.google.com/groups/chapter/102464661817600154044/"
+        }
+      ],
+      "socials": [
+        {
+          "name": "Website",
+          "icon": "website",
+          "link": "https://www.contentful.com"
+        },
+        {
+          "name": "GitHub",
+          "icon": "github",
+          "link": "https://github.com/mariobodemann"
+        },
+        {
+          "name": "Twitter",
+          "icon": "twitter",
+          "link": "https://twitter.com/@mariobodemann"
+        },
+        {
+          "name": "GitHub",
+          "icon": "github",
+          "link": "https://github.com/contentful-lab/contentful-cardboard"
+        },
+        {
+          "name": "GitHub",
+          "icon": "github",
+          "link": "https://github.com/contentful-labs/contentful-cardboard"
+        }
       ]
     }
 }
