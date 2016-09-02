@@ -1,17 +1,17 @@
 application: devfesthh
-version: 13
+version: 14
 runtime: python27
 api_version: 1
 threadsafe: yes
 
 skip_files:
 - ^bower_components/.*
-- ^data/.*
 - ^build/unbundled/.*
 - ^images/.*
 - ^scripts/.*
 - ^src/.*
 - ^test/.*
+- ^build/bundled/data/.*
 - ^build/bundled/bower_components/(.*/)?.*\.md$
 - ^build/bundled/bower_components/(.*/)?demo/.*
 - ^build/bundled/bower_components/(.*/)?tests?/.*
@@ -44,7 +44,7 @@ handlers:
   secure: always
 
 - url: /data
-  static_dir: build/bundled/data
+  static_dir: data
   secure: always
 
 - url: /service-worker.js

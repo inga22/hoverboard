@@ -36,6 +36,7 @@
       ],
 
       loadAppResources: function (lang) {
+        if (!lang) return;
         var url = '/data/' + lang + '/resources.json';
         this.loadResources(this.resolveUrl(url));
       },
