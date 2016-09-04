@@ -1,0 +1,87 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+
+<link rel="import" href="../../bower_components/iron-flex-layout/iron-flex-layout.html">
+
+<link rel="import" href="../../bower_components/paper-button/paper-button.html">
+
+<link rel="import" href="../styles/shared-styles.html">
+<link rel="import" href="../behaviors/app-localize-behavior.html">
+
+
+<dom-module id="xing-tickets-block">
+
+  <template>
+
+    <style include="shared-styles">
+      :host {
+        --iron-icon-fill-color: var(--text-primary-color);
+        --paper-card-background-color: #FFFFFF;
+        display: block;
+        background: #ffffff;
+        color: var(--text-primary-color);
+        text-align: center;
+      }
+
+      ticket-element {
+        margin: 15px;
+      }
+
+      paper-button {
+        font-size: 0.9em;
+      }
+
+      paper-dialog {
+        background: #fff;
+        color: var(--primary-text-color);
+      }
+
+      paper-dialog paper-button {
+        color: var(--default-primary-color);
+      }
+
+      @media (min-width: 601px) {
+        ticket-element {
+          max-width: 350px;
+        }
+      }
+    </style>
+
+    <div class="container">
+      <div class="block-header">
+        <h4 class="heading">[[localize('order-now')]]</h4>
+      </div>
+      <script type="text/javascript" src="https://1722966-795e9354-modules.xing-events.com/resources/js/amiandoExport.js"></script>
+      <iframe src="https://1722966-795e9354-modules.xing-events.com/1722966-795e9354.html?viewType=iframe&distributionChannel=CHANNEL_IFRAME&useDefaults=false&resizeIFrame=true" frameborder="0" width="650px" height="500px" id="_amiandoIFrame2930563">
+        <p>This page requires frame support. Please use a frame compatible browser to see the ticket sales module.</p><p> Try out the <a href="https://en.xing-events.com/">online event registration system</a> from XING Events.
+      </p>
+      </iframe>
+
+    </div>
+
+  </template>
+
+  <script>
+    (function () {
+      'use strict';
+
+      Polymer({
+        is: 'xing-tickets-block',
+
+        behaviors: [
+          HOVERBOARD.AppLocalizeBehavior
+        ],
+
+        ready: function () {
+          HOVERBOARD.Elements.Tickets = this;
+        },
+
+        _trackBuyClick: function (e) {
+          HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', e.currentTarget.href);
+        }
+
+      });
+
+    }());
+  </script>
+
+</dom-module>
