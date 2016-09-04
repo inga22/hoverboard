@@ -6,7 +6,14 @@
     }, {
         "title": "Third Floor"
     }],
-    "timeslots": [{
+    "timeslots": [
+    {
+        "startTime": "TBA",
+        "endTime": "TBA",
+        "sessions": [
+            [101, 102, 103]
+        ]
+    },{
         "startTime": "09:00",
         "endTime": "10:00",
         "sessions": [
