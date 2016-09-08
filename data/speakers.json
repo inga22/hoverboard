@@ -162,7 +162,7 @@
       "company": "Chicisimo",
       "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/chicisimo.png",
       "country": "Spain",
-      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/saul.jpg",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/saul.png",
       "shortBio": "",
       "bio": "Saúl Díaz has been developing Android since 2010. Currently he is working on Chicisimo, and Android app selected as one of the best of 2015 on Spain, and featured on Google Play by the Google Play Team.<br><br>Previously he has worked as Android Lead on Fever and Android Developer on Tuenti, two renowned companies of Spain.<br><br>He is an active member of the Spanish Android Development community and regularly participates in events and conferences.",
       "tags": [
@@ -244,9 +244,9 @@
       "name": "Anton Augsburg",
       "title": "Software Developer Mobile Platforms",
       "company": "RadioOpt GmbH",
-      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/anton.jpg",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/radioopt.jpg",
       "country": "Germany",
-      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/radioopt.jpg",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/anton.jpg",
       "shortBio": "",
       "bio": "Android dev who likes good UI and UX as well as good software design.",
       "tags": [
