@@ -54,6 +54,71 @@
         "description": "Get your badge, coffee, enjoy talking with tech edicts around",
         "image": "/images/backgrounds/registration.jpg"
     },
+    "108": {
+        "id": 108,
+        "title": "Level up your Gradle build",
+        "description": "Gradle is an essential part of the daily life of an Android developer. For many developers it’s sufficient to just change some fields in the default build script and hit BUILD. But there is more beneath that. Learn how Gradle works and how you can gain more out of it by extending your build script with custom tasks and plugins. ",
+        "speakers": [
+            8
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Android"
+        ]
+    },
+    "107": {
+        "id": 107,
+        "title": "Safe vs Deep integration of Realm",
+        "description": "Realm: A fast and secure database for Android, which is easy to learn and integrate.<br><br>Have you heard good things about Realm and considered replacing SQLite or ORM with Realm?<br>Do you know that with tons of advantages, Realm also brings some limitations?<br>Have you faced thread handling issues with Realm?<br>If yes, we will discuss different integration approaches of Realm and best practices to follow, along with RxJava, Retrofit, Dagger, Annotations & MVP.<br><br>In this talk, you will be learning:<br>1. What is Realm and why use it.<br>2. Safe vs Deep integration of Realm in Android, with examples.<br>3. Best practices to follow when using Realm, with examples.<br>4. Unit testing of Realm, with examples.",
+        "speakers": [
+            7
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Android"
+        ]
+    },
+    "106": {
+        "id": 106,
+        "title": "Record Meaningful UI Tests",
+        "description": "Espresso Test Recording has been presented at this years Google I/O. As of Android Studio 2.2 preview 3 this feature has been available to the public. In this talk we will discover how to record tests and how to create highly readable and maintainable UI Tests from generated code. Furthermore we will discuss how to integrate the created Tests into BDD Frameworks like Cucumber.",
+        "speakers": [
+            6
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Android"
+        ]
+    },
+    "105": {
+        "id": 105,
+        "title": "The Art of Pushing",
+        "description": "A common component to a lot of apps is the capability to receive pushes and show notifications to the user. While many devs and product owners overlook them, considering them trivial, it is a vital component which requires a lot of caring to be done properly and can provide a competitive advantage.<br>In this talk we will address some common problems about push architecture and notification management, which implications have for the product and how to build a good UX around those while providing 4.0 to Android N support.",
+        "speakers": [
+            5
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Android"
+        ]
+    },
+    "104": {
+        "id": 104,
+        "title": "Zero to App: Develop with Firebase",
+        "description": "Firebase helps mobile and web developers create extraordinary apps. It abstracts complex infrastructure and simplifies the development process. By using Firebase, developers can build the best user experience in the shortest amount of time, all without having to spin up servers or manage infrastructure. We explore how Firebase authenticates users and synchronizes data by creating an app on stage. You’ll experience first hand how easy it is to build with Firebase!",
+        "speakers": [
+            4
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Android,Web"
+        ]
+    },
     "103": {
         "id": 103,
         "title": "Virtual Reality in Android or Daydreaming about Cardboards",
