@@ -5,8 +5,8 @@
       "name": "David Cifuentes",
       "title": "Software Engineer",
       "company": "Zalando",
-      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/zalando-se.png",
-      "country": "",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/dzalando-se.png",
+      "country": "Germany",
       "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/david.jpg",
       "shortBio": "",
       "bio": "David is a software engineer at Zalando SE and Google Developer Expert (GDE) for Cloud Platform based in Berlin, Germany. For the past few years, he's been developing and deploying to the cloud IoT and enterprise software projects. He is also passionate about agile methodologies, particularly Scrum. In his spare time he enjoys travelling, running and road cycling.",
@@ -40,7 +40,7 @@
       "title": "Lead Mobile Engineer",
       "company": "Blacklane",
       "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/blacklane.jpg",
-      "country": "",
+      "country": "Germany",
       "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/orhan.jpg",
       "shortBio": "",
       "bio": "A community driven regular android engineer. Focused on mostly contributing open source and writing blog posts. Still learning a lot, even for basic things and happy about it.",
@@ -84,7 +84,7 @@
       "title": "",
       "company": "Contentful GmbH",
       "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/contentful.png",
-      "country": "",
+      "country": "Germany",
       "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/mario.jpg",
       "shortBio": "",
       "bio": "Google Developer Group Co-Organiser @Berlindroid<br><br>Android and Java Evangelist @Contentful<br>Software Engineer @Memorado and @HERE<br>Graduate Software Engineer @Wooga<br>Research Associate @HHIFraunhofer<br><br>Loves to play with technology, talking about it, and people",
@@ -123,6 +123,164 @@
           "name": "GitHub",
           "icon": "github",
           "link": "https://github.com/contentful-labs/contentful-cardboard"
+        }
+      ]
+    },
+    "4": {
+      "id": 4,
+      "featured": "true",
+      "name": "Frank van Puffelen",
+      "title": "",
+      "company": "Google",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/google.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/frank_van_puffelen.jpg",
+      "shortBio": "",
+      "bio": "Frank is an engineer for Firebase at Google. He helps developers build extraordinary apps that use Firebase as their back-end. If you've ever asked a Firebase question on StackOverflow, you've probably met Frank already.",
+      "tags": [
+        "Android,Web,Cloud"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "Website",
+          "icon": "website",
+          "link": "https://firebase.google.com"
+        },
+        {
+          "name": "Twitter",
+          "icon": "twitter",
+          "link": "https://twitter.com/puf"
+        }
+      ]
+    },
+    "5": {
+      "id": 5,
+      "featured": "true",
+      "name": "Saul Diaz",
+      "title": "Android Developer",
+      "company": "Chicisimo",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/chicisimo.png",
+      "country": "Spain",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/saul.jpg",
+      "shortBio": "",
+      "bio": "Saúl Díaz has been developing Android since 2010. Currently he is working on Chicisimo, and Android app selected as one of the best of 2015 on Spain, and featured on Google Play by the Google Play Team.<br><br>Previously he has worked as Android Lead on Fever and Android Developer on Tuenti, two renowned companies of Spain.<br><br>He is an active member of the Spanish Android Development community and regularly participates in events and conferences.",
+      "tags": [
+        "Android"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "GitHub",
+          "icon": "github",
+          "link": "https://github.com/Sefford"
+        },
+        {
+          "name": "Twitter",
+          "icon": "twitter",
+          "link": "https://twitter.com/sefford"
+        }
+      ]
+    },
+    "6": {
+      "id": 6,
+      "featured": "true",
+      "name": "Jan Kettner",
+      "title": "",
+      "company": "Magicline GmbH",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/magicline.jpg",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/jan_k.jpg",
+      "shortBio": "",
+      "bio": "I am working as an Android Developer for over 5 years now. I have been having fun with the Android SDK since Cupcake. Currently I am employed at Magicline GmbH, where my colleagues and me created a highly tested Architecture using the Databinding Library and MVVM. I am always interested to learn more about Software Craftsmanship.",
+      "tags": [
+        "Android"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "GitHub",
+          "icon": "github",
+          "link": "https://github.com/kaskasi"
+        }
+      ]
+    },
+    "7": {
+      "id": 7,
+      "featured": "true",
+      "name": "Viraj Tank",
+      "title": "Mobile Team Lead",
+      "company": "Sociomantic Labs",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/sociomantic.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/viraj.jpg",
+      "shortBio": "",
+      "bio": "I work at Sociomantic Labs, Berlin as an Android developer and Mobile team lead. I like discussing best practices to follow in mobile development. When not doing tech stuff I go for a run, write short stories or play Age of Empire-II.",
+      "tags": [
+        "Android"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "GitHub",
+          "icon": "github",
+          "link": "https://github.com/viraj49"
+        },
+        {
+          "name": "Twitter",
+          "icon": "twitter",
+          "link": "https://twitter.com/viraj49"
+        },
+        {
+          "name": "Medium",
+          "icon": "medium",
+          "link": "https://medium.com/@Viraj.Tank"
+        }
+      ]
+    },
+    "8": {
+      "id": 8,
+      "featured": "true",
+      "name": "Anton Augsburg",
+      "title": "Software Developer Mobile Platforms",
+      "company": "RadioOpt GmbH",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/anton.jpg",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/radioopt.jpg",
+      "shortBio": "",
+      "bio": "Android dev who likes good UI and UX as well as good software design.",
+      "tags": [
+        "Android"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "Twitter",
+          "icon": "twitter",
+          "link": "twitter.com/ungesehn"
+        }
+      ]
+    },
+    "9": {
+      "id": 9,
+      "featured": "true",
+      "name": "Robin Drexler",
+      "title": "",
+      "company": "Jimdo",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/jimdo.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/robin.jpg",
+      "shortBio": "",
+      "bio": "Among other things, interested in people, ux and web. Trying to suck less every day.",
+      "tags": [
+        "Web"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "Website",
+          "icon": "website",
+          "link": "https://www.robin-drexler.com/"
         }
       ]
     }
