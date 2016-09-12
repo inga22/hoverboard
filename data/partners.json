@@ -6,11 +6,51 @@
         "name": "Google",
         "url": "https://www.google.com.ua/intl/en/about/",
         "logoUrl": "../images/logos/google.svg"
+      }
+    ]
+  },
+  {
+    "title": "Platinum Sponsors",
+    "logos": [
+      {
+        "name": "car2go",
+        "url": "https://www.car2go.com",
+        "logoUrl": "https://gdg-devfest2016.firebaseapp.com/images/company/car2go.png"
       },
+      {
+        "name": "Ligatus",
+        "url": "https://www.ligatus.com/",
+        "logoUrl": "https://gdg-devfest2016.firebaseapp.com/images/company/ligatus.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Gold Sponsor",
+    "logos": [
       {
         "name": "XING",
         "url": "https://xing.com",
         "logoUrl": "../images/logos/Xing_logo.svg"
+      }
+    ]
+  },
+  {
+    "title": "Silver Sponsors",
+    "logos": [
+      {
+        "name": "Inovex",
+        "url": "https://www.inovex.de",
+        "logoUrl": "https://gdg-devfest2016.firebaseapp.com/images/company/inovex.jpg"
+      },
+      {
+        "name": "Ubilabs",
+        "url": "https://www.ubilabs.net/",
+        "logoUrl": "https://gdg-devfest2016.firebaseapp.com/images/company/ubilabs.png"
+      },
+      {
+        "name": "PricewaterhouseCoopers",
+        "url": "http://www.pwc.de/",
+        "logoUrl": "https://gdg-devfest2016.firebaseapp.com/images/company/pwc.png"
       }
     ]
   },
