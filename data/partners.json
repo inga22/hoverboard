@@ -10,7 +10,7 @@
     ]
   },
   {
-    "title": "Platinum Sponsors",
+    "title": "platinum-partner",
     "logos": [
       {
         "name": "car2go",
@@ -18,14 +18,14 @@
         "logoUrl": "https://gdg-devfest2016.firebaseapp.com/images/company/car2go.png"
       },
       {
-        "name": "Ligatus",
-        "url": "https://www.ligatus.com/",
-        "logoUrl": "https://gdg-devfest2016.firebaseapp.com/images/company/ligatus.jpg"
+        "name": "AppLike",
+        "url": "https://www.applike.info",
+        "logoUrl": "../images/logos/applike_logo.png"
       }
     ]
   },
   {
-    "title": "Gold Sponsor",
+    "title": "gold-partner",
     "logos": [
       {
         "name": "XING",
@@ -35,7 +35,7 @@
     ]
   },
   {
-    "title": "Silver Sponsors",
+    "title": "silver-partner",
     "logos": [
       {
         "name": "Inovex",
@@ -48,9 +48,9 @@
         "logoUrl": "https://gdg-devfest2016.firebaseapp.com/images/company/ubilabs.png"
       },
       {
-        "name": "PricewaterhouseCoopers",
-        "url": "http://www.pwc.de/",
-        "logoUrl": "https://gdg-devfest2016.firebaseapp.com/images/company/pwc.png"
+        "name": "Logo Easy",
+        "url": "http://www.logo-easy.de/",
+        "logoUrl": "../images/logos/logo-easy.png"
       }
     ]
   },
