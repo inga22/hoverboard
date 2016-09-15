@@ -65,6 +65,10 @@
       "permalink": "/blog/"
     },
     {
+      "route": "team",
+      "permalink": "/team/"
+    },
+    {
       "route": "schedule",
       "permalink": "/schedule/"
     }
