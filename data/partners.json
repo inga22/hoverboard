@@ -51,6 +51,11 @@
         "name": "Logo Easy",
         "url": "http://www.logo-easy.de/",
         "logoUrl": "../images/logos/logo-easy.png"
+      },
+      {
+        "name": "Holisticon",
+        "url": "https://www.holisticon.de/",
+        "logoUrl": "../images/logos/holisticon-logo-hamburg.gif"
       }
     ]
   },
