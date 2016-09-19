@@ -117,11 +117,6 @@
         {
           "name": "GitHub",
           "icon": "github",
-          "link": "https://github.com/contentful-lab/contentful-cardboard"
-        },
-        {
-          "name": "GitHub",
-          "icon": "github",
           "link": "https://github.com/contentful-labs/contentful-cardboard"
         }
       ]
@@ -257,7 +252,7 @@
         {
           "name": "Twitter",
           "icon": "twitter",
-          "link": "twitter.com/ungesehn"
+          "link": "http://twitter.com/ungesehn"
         }
       ]
     },
@@ -281,6 +276,278 @@
           "name": "Website",
           "icon": "website",
           "link": "https://www.robin-drexler.com/"
+        }
+      ]
+    },
+    "10": {
+      "id": 10,
+      "featured": "true",
+      "name": "Peter Friese",
+      "title": "Developer Advocate",
+      "company": "Google",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/google.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/peter.jpg",
+      "shortBio": "",
+      "bio": "Peter is a Developer Advocate at Google, where he works with people around the globe to bring delightful experiences directly to your wrist. He likes his tea hot - and with a splash of milk.",
+      "tags": [
+        "Android"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "GitHub",
+          "icon": "github",
+          "link": "https://github.com/peterfriese"
+        }
+      ]
+    },
+    "11": {
+      "id": 11,
+      "featured": "true",
+      "name": "Jean-Baptiste Clion",
+      "title": "Founder",
+      "company": "Apeser",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/apeser.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/jean-baptiste.png",
+      "shortBio": "",
+      "bio": "Jean-Baptiste (a.k.a JB) :Google Developer Expert (GDE) and senior cloud engineer working with Google Technologies since 2007.",
+      "tags": [
+        "Cloud"
+      ],
+      "badges": [
+        {
+          "name": "GDE",
+          "description": "Google Developer Expert for Cloud Platform",
+          "link": "https://developers.google.com/experts/people/jean-baptiste-clion"
+        }
+      ],
+      "socials": [
+        {
+          "name": "Facebook",
+          "icon": "facebook",
+          "link": "https://www.facebook.com/jbclion"
+        },
+        {
+          "name": "Google+",
+          "icon": "googleplus",
+          "link": "https://plus.google.com/+JeanBaptisteClionBasel"
+        },
+        {
+          "name": "GTwitter",
+          "icon": "twitter",
+          "link": "https://twitter.com/JBaptisteClion"
+        },
+        {
+          "name": "LinkedIn",
+          "icon": "linkedin",
+          "link": "https://ch.linkedin.com/in/jean-baptiste-clion-3196415"
+        }
+      ]
+    },
+    "12": {
+      "id": 12,
+      "featured": "true",
+      "name": "Sandro Kock",
+      "title": "Developer",
+      "company": "SSV Software Systems",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/ssv.jpg",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/sandro.jpg",
+      "shortBio": "",
+      "bio": "Attendee of the Google Summer of Code 2014 for the Eclipse Foundation. Maintainer of MQTTLens and <mqtt-elements>. Works at SSV Software System.",
+      "tags": [
+        "Web"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "GitHub",
+          "icon": "github",
+          "link": "https://github.com/sandro-k"
+        }
+      ]
+    },
+    "13": {
+      "id": 13,
+      "featured": "true",
+      "name": "Jan Weinschenker",
+      "title": "Senior Consultant",
+      "company": "Holisticon AG",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/holisticon.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/jan.jpg",
+      "shortBio": "",
+      "bio": "I'm a consultant working for Holisticon AG. I held various roles as developer and architect in several web-related projects. I love building innovative software and I am passionate for clean, elegant and performant solutions. Furthermore, I like continuous delivery, behavior-driven development and all things agile.",
+      "tags": [
+        "Web"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "Xing",
+          "icon": "xing",
+          "link": "https://www.xing.com/profile/Jan_Weinschenker"
+        },
+        {
+          "name": "Website",
+          "icon": "website",
+          "link": "https://www.holisticon.de/author/jan-weinschenker/"
+        }
+      ]
+    },
+    "14": {
+      "id": 14,
+      "featured": "false",
+      "name": "Jonathan Wolter",
+      "title": "",
+      "company": "",
+      "companyLogo": "",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/jonathan.jpg",
+      "shortBio": "",
+      "bio": "Der 11jährige Jonathan ist seit Geburt Berater in Fragen rund um natürliche Interaktionsformen und hält regelmäßig Vorträge über deren Programmierung – z. B. auf den Maker Faires in Hannover 2014 und in Berlin 2015. Sascha ist Experte für die Planung und Umsetzung von geräteübergreifenden Anwendungen für das Internet der Dinge und erkundet neue technische Möglichkeiten für die Deutsche Telekom AG. Außerdem engagiert er sich als Vorstandsmitglied im FA Usability & User Experience der BITKOM.",
+      "tags": [
+        "IoT"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "Website",
+          "icon": "website",
+          "link": "http://wolter.biz"
+        }
+      ]
+    },
+    "15": {
+      "id": 15,
+      "featured": "true",
+      "name": "Sascha Wolter",
+      "title": "Maker and Speaker with Passion for the Internet of Things",
+      "company": "Deutsche Telekom AG - Connected Home",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/deutsche_telekom.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/sascha.jpg",
+      "shortBio": "",
+      "bio": "Der 11jährige Jonathan ist seit Geburt Berater in Fragen rund um natürliche Interaktionsformen und hält regelmäßig Vorträge über deren Programmierung – z. B. auf den Maker Faires in Hannover 2014 und in Berlin 2015. Sascha ist Experte für die Planung und Umsetzung von geräteübergreifenden Anwendungen für das Internet der Dinge und erkundet neue technische Möglichkeiten für die Deutsche Telekom AG. Außerdem engagiert er sich als Vorstandsmitglied im FA Usability & User Experience der BITKOM.",
+      "tags": [
+        "IoT"
+      ],
+      "badges": [
+        {
+          "name": "GDE",
+          "description": "Google Developer Expert for Internet of Things",
+          "link": "https://developers.google.com/experts/people/sascha-wolter"
+        }
+      ],
+      "socials": [
+        {
+          "name": "Website",
+          "icon": "website",
+          "link": "http://wolter.biz"
+        }
+      ]
+    },
+    "16": {
+      "id": 16,
+      "featured": "true",
+      "name": "Maurice Tollmien",
+      "title": "",
+      "company": "",
+      "companyLogo": "",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/maurice.png",
+      "shortBio": "",
+      "bio": "I am completing my masters degree in computer science, love designing solutions for technical or mathematical challenging problems and like playing around with OpenGL and Computergraphics in general.",
+      "tags": [
+        "Machine Learning"
+      ],
+      "badges": [],
+      "socials": []
+    },
+    "17": {
+      "id": 17,
+      "featured": "true",
+      "name": "Niklas Baudy",
+      "title": "Android Developer",
+      "company": "Familo",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/familo.png",
+      "country": "germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/niklas.jpg",
+      "shortBio": "",
+      "bio": "",
+      "tags": [
+        "Android"
+      ],
+      "badges": [],
+      "socials": []
+    },
+    "18": {
+      "id": 18,
+      "featured": "true",
+      "name": "Serj Lotutovici",
+      "title": "Android Developer",
+      "company": "Xing",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/xing.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/serj.jpg",
+      "shortBio": "",
+      "bio": "Serj is an Android Developer at XING. He is responsible for the framework part that drives the XING Main App, along side other mobile products. He is known for his passion for clean and sustainable code. DI is his middle name, Jenkins is his best friend and he eats Gradle for lunch. You will never hear him showing-of a feature, but he will not miss an opportunity to tell you about 'this cool new library' or 'this awesome design pattern'.",
+      "tags": [
+        "Android"
+      ],
+      "badges": [
+        {
+          "name": "GDG",
+          "description": "GDG Hamburg Android",
+          "link": "https://plus.google.com/107859748046093089218"
+        }
+      ],
+      "socials": [
+        {
+          "name": "Google+",
+          "icon": "app-icons:gplus",
+          "link": "https://google.com/+LotutoviciSerj"
+        },
+        {
+          "name": "Twitter",
+          "icon": "app-icons:twitter",
+          "link": "https://twitter.com/SLotutovici"
+        }
+      ]
+    },
+    "19": {
+      "id": 19,
+      "featured": "true",
+      "name": "Tim Roes & Jonas Moosmann",
+      "title": "Web & Mobile Developers",
+      "company": "Inovex GmbH",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/inovex.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/tim_jonas.jpg",
+      "shortBio": "",
+      "bio": "Tim and Jonas are working as web and mobile developers at inovex in Karlsruhe.",
+      "tags": [
+        "Web"
+      ],
+      "badges": [
+        {
+          "name": "GDG",
+          "description": "GDG Karlsruhe",
+          "link": "https://developers.google.com/groups/chapter/109775289623271731783/"
+        }
+      ],
+      "socials": [
+        {
+          "name": "Twitter",
+          "icon": "twitter",
+          "link": "https://twitter.com/JonasMoosmann"
+        },
+        {
+          "name": "Twitter",
+          "icon": "twitter",
+          "link": "https://twitter.com/tim_roes"
         }
       ]
     }
