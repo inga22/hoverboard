@@ -54,6 +54,136 @@
         "description": "Get your badge, coffee, enjoy talking with tech edicts around",
         "image": "/images/backgrounds/registration.jpg"
     },
+    "118": {
+        "id": 118,
+        "title": "The Physical Web: Prototyping the Internet of Things",
+        "description": "It's no longer just about digitizing our environment. It’s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This “Internet of Things” will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome in conjunction with augmented and virtual reality based on - yeah - Minecraft modding.",
+        "speakers": [
+            15
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "IoT"
+        ]
+    },
+    "117": {
+        "id": 117,
+        "title": "Mein Minecraft-Smart-Home",
+        "description": "Vernetzte Alltagsgegenstände sind unaufhaltsam. Doch wie können wir die Generation Z darauf vorbereiten? Wie begeistern wir Kollegen oder die eigenen Kinder dafür, diese Zukunft verantwortungsbewusst mitzugestalten? Sascha und sein Sohn Jonathan nutzen dafür visuelle Programmierumgebungen wie Scratch und spielerische Programme in Minecraft. Und natürlich eignet sich diese Herangehensweise in Kombination mit Smart-Home-Lösungen wie openHAB oder QIVICON auch für professionelle Projekte.",
+        "speakers": [
+            14,15
+        ],
+        "language": "German",
+        "complexity": "Beginner",
+        "tags": [
+            "IoT"
+        ]
+    },
+    "116": {
+        "id": 116,
+        "title": "Hands-on Web Performance Analysis with Chrome Dev Tools, Google PageSpeed Insights and WebPagetest",
+        "description": "We will use freely available tools like Chrome Dev Tools, Google PageSpeed Insights and WebPagetest as an introduction to the topic of Web Performance and Web Performance Optimization.<br><br>Using these tools we will inspect and analyze three given web sites. Furthermore we will discuss techniques to improve web perfomance on mobile devices and on the big screen.",
+        "speakers": [
+            13
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Web"
+        ]
+    },
+    "115": {
+        "id": 115,
+        "title": "Interact with Bluetooth devices on the Web",
+        "description": "In a near future, one has not do download an App before connecting and controlling a physical device, but can simply visit a website. The WebBluetooth API specification is not yet a standard, but can be used via a flag in Chrome.  This talk will provide a deep dive into the WebBlutooth API and what can be done with it and where to use it right now.",
+        "speakers": [
+            12
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Web"
+        ]
+    },
+    "114": {
+        "id": 114,
+        "title": "Microservices in Google App Engine",
+        "description": "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
+        "speakers": [
+            11
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Cloud"
+        ]
+    },
+    "113": {
+        "id": 113,
+        "title": "Android Wear 2.0 Codelab",
+        "description": "Android Wear 2.0 contains a number of exciting new features, such as Standalone apps, Material Design and new UI components, as well as support for complications. In this codelab, we will build a simple wearable application that can be run independently of a companion app on your phone and augment it with a complication data provider.",
+        "speakers": [
+            10
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Android"
+        ]
+    },
+    "112": {
+        "id": 112,
+        "title": "What's New in Android Wear 2.0",
+        "description": "Android Wear 2.0 is a major update and contains a number of significant updates that will make it easier to build delightful experiences for wearables. In this session, I will provide an overview of new features such as Standalone apps, Material Design on Android Wear and some of the new UI components we're making available (such as Navigation Drawers and Action Drawers), as well as complications and complication data providers.",
+        "speakers": [
+            10
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Android"
+        ]
+    },
+    "111": {
+        "id": 111,
+        "title": "RxMVP with RxJava 2",
+        "description": "We'll talk about the upcoming release of RxJava 2 and how to use MVP in a reactive manner.<br>What we'll talk about:<br>- RxJava 1 (History, basic introduction)<br>- RxJava 2 (Reason / Motivation, What's new / What stayed)<br>- MVP with RxJava 2 + RxBinding",
+        "speakers": [
+            17,18
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Android"
+        ]
+    },
+    "110": {
+        "id": 110,
+        "title": "Illumination of density volumes with Neural Networks (Computergraphics)",
+        "description": "Part of my masters thesis is, to find a possible way to illuminate density volumes, such as clouds, by using a deep-learning approach. I will talk about my current progress and possible solutions I came up with.",
+        "speakers": [
+            16
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Machine Learning"
+        ]
+    },
+    "109": {
+        "id": 109,
+        "title": "Progressive Web Apps",
+        "description": "The web of today and tomorrow has a ton of new features and APIs to offer, that will help creating mobile web pages that integrates well into your mobile or desktop system. Features like Service Workers make it possible to add a sophisticated offline support or background data synchronization to your web app. Also support for Push notifications will allow creating apps with rich notification and stay-up-to-date features.<br><br>This talk will use an example application to show and explain all the different techniques that play together to create today's Progressive Web Apps.",
+        "speakers": [
+            19
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Web"
+        ]
+    },
     "108": {
         "id": 108,
         "title": "Level up your Gradle build",
@@ -116,7 +246,7 @@
         "language": "English",
         "complexity": "Intermediate",
         "tags": [
-            "Android", "Web"
+            "Android,Web"
         ]
     },
     "103": {
