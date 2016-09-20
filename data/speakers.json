@@ -550,5 +550,83 @@
           "link": "https://twitter.com/tim_roes"
         }
       ]
+    },
+    "20": {
+      "id": 20,
+      "featured": "true",
+      "name": "Kim Hogeling",
+      "title": "Web Developers",
+      "company": "shopping24 internet group",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/shopping24.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/kim.jpg",
+      "shortBio": "",
+      "bio": "Happy Web Developer @shopping24 Obsessed with performance, functional programming and music",
+      "tags": [
+        "Web"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "GitHub",
+          "icon": "github",
+          "link": "https://github.com/kimhogeling"
+        },
+        {
+          "name": "Twitter",
+          "icon": "twitter",
+          "link": "https://twitter.com/KimHogeling"
+        },
+        {
+          "name": "Website",
+          "icon": "website",
+          "link": "https://developer.s24.com/"
+        },
+        {
+          "name": "Website",
+          "icon": "website",
+          "link": "https://www.s24.com/"
+        }
+      ]
+    },
+    "21": {
+      "id": 21,
+      "featured": "true",
+      "name": "Tobias Schwab",
+      "title": "Founder",
+      "company": "PhraseApp",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/phraseapp.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/tobias.jpg",
+      "shortBio": "",
+      "bio": "Developer and Ops-Guy, deploying all kinds of web applications with containers since 2013",
+      "tags": [
+        "Web"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "Website",
+          "icon": "website",
+          "link": "https://phraseapp.com"
+        }
+      ]
+    },
+    "22": {
+      "id": 22,
+      "featured": "true",
+      "name": "Alberto Ballano",
+      "title": "Android Developer",
+      "company": "Xing AG",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/xing.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/alberto.jpg",
+      "shortBio": "",
+      "bio": "Passionate Android Developer, curious person, love discussions.",
+      "tags": [
+        "Android"
+      ],
+      "badges": [],
+      "socials": []
     }
 }
