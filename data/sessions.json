@@ -54,6 +54,47 @@
         "description": "Get your badge, coffee, enjoy talking with tech edicts around",
         "image": "/images/backgrounds/registration.jpg"
     },
+
+
+    "121": {
+        "id": 121,
+        "title": "The Bleeding Edge of Android Development",
+        "description": "We all developers have experience the trending of a new technology, to be \"mainstream\" for using something that every other developer uses. We all have discovered some lib or technology that changed our mindset and wanted to use it everywhere, everytime. But all of that doesn't mean that we have to radically change how we work.",
+        "speakers": [
+            22
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Android"
+        ]
+    },
+    "120": {
+        "id": 120,
+        "title": "Hands on Kubernetes",
+        "description": "Learn how to deploy a \"dockerized\" web application with Kubernetes",
+        "speakers": [
+            21
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Cloud"
+        ]
+    },
+    "119": {
+        "id": 119,
+        "title": "Best of ES6",
+        "description": "ES6 is among us now and it introduced many new useful features, which makes solving typical everyday JavaScript challenges a lot easier. Let’s go through real life examples to create code that is dynamic, robust and maintainable.<br>Warning: This talk may contain traces of Arrow Functions, Template Strings, Destructuring, Proxies, Generators, Iterables, Classes, Promises, Sets, Maps and Functional Programming.",
+        "speakers": [
+            20
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Web"
+        ]
+    },
     "118": {
         "id": 118,
         "title": "The Physical Web: Prototyping the Internet of Things",
