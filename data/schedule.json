@@ -78,8 +78,8 @@
             [], [], [], []
         ]
     }, {
-        "startTime": "17:40",
-        "endTime": "18:20",
+        "startTime": "18:15",
+        "endTime": "21:00",
         "sessions": [
             [137]
         ]
@@ -161,11 +161,11 @@
         "startTime": "17:30",
         "endTime": "18:15",
         "sessions": [
-            [], [], [], [123]
+            [], [], [123], []
         ]
     }, {
-        "startTime": "17:40",
-        "endTime": "18:20",
+        "startTime": "18:15",
+        "endTime": "21:00",
         "sessions": [
             [137]
         ]
