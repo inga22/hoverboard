@@ -407,9 +407,9 @@
       "country": "Germany",
       "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/jonathan.jpg",
       "shortBio": "",
-      "bio": "Der 11jährige Jonathan ist seit Geburt Berater in Fragen rund um natürliche Interaktionsformen und hält regelmäßig Vorträge über deren Programmierung – z. B. auf den Maker Faires in Hannover 2014 und in Berlin 2015. Sascha ist Experte für die Planung und Umsetzung von geräteübergreifenden Anwendungen für das Internet der Dinge und erkundet neue technische Möglichkeiten für die Deutsche Telekom AG. Außerdem engagiert er sich als Vorstandsmitglied im FA Usability & User Experience der BITKOM.",
+      "bio": "Der 11jährige Jonathan ist seit Geburt Berater in Fragen rund um natürliche Interaktionsformen und hält regelmäßig Vorträge über deren Programmierung – z. B. auf den Maker Faires in Hannover 2014 und in Berlin 2015.",
       "tags": [
-        "IoT"
+        "Internet of Things"
       ],
       "badges": [],
       "socials": [
@@ -430,9 +430,9 @@
       "country": "Germany",
       "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/sascha.jpg",
       "shortBio": "",
-      "bio": "Der 11jährige Jonathan ist seit Geburt Berater in Fragen rund um natürliche Interaktionsformen und hält regelmäßig Vorträge über deren Programmierung – z. B. auf den Maker Faires in Hannover 2014 und in Berlin 2015. Sascha ist Experte für die Planung und Umsetzung von geräteübergreifenden Anwendungen für das Internet der Dinge und erkundet neue technische Möglichkeiten für die Deutsche Telekom AG. Außerdem engagiert er sich als Vorstandsmitglied im FA Usability & User Experience der BITKOM.",
+      "bio": "Sascha ist Experte für die Planung und Umsetzung von geräteübergreifenden Anwendungen für das Internet der Dinge und erkundet neue technische Möglichkeiten für die Deutsche Telekom AG. Außerdem engagiert er sich als Vorstandsmitglied im FA Usability & User Experience der BITKOM.",
       "tags": [
-        "IoT"
+        "Internet of Things"
       ],
       "badges": [
         {
