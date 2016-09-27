@@ -5,82 +5,81 @@
         "title": "First Floor"
     }, {
         "title": "Third Floor"
+    }, {
+        "title": "Workshop 1"
+    }, {
+        "title": "Workshop 2"
     }],
     "timeslots": [
     {
-        "startTime": "TBA",
-        "endTime": "TBA",
-        "sessions": [
-            [101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121]
-        ]
-    },{
-        "startTime": "09:00",
+        "startTime": "08:45",
         "endTime": "10:00",
         "sessions": [
             [132]
         ]
     }, {
-        "startTime": "10:00",
-        "endTime": "10:15",
+        "startTime": "09:30",
+        "endTime": "09:45",
         "sessions": [
             [136]
         ]
     }, {
-        "startTime": "10:15",
-        "endTime": "11:00",
+        "startTime": "10:00",
+        "endTime": "10:45",
         "sessions": [
-            [139]
+            [102], [101], [], []
         ]
     }, {
         "startTime": "11:00",
-        "endTime": "11:40",
+        "endTime": "11:45",
         "sessions": [
+            [105], [114], [116], []
         ]
     }, {
-        "startTime": "11:50",
-        "endTime": "12:30",
+        "startTime": "12:00",
+        "endTime": "12:45",
         "sessions": [
+            [112], [], [116], []
         ]
     }, {
-        "startTime": "12:30",
+        "startTime": "12:45",
         "endTime": "14:00",
         "sessions": [
             [133]
         ]
     }, {
         "startTime": "14:00",
-        "endTime": "14:40",
+        "endTime": "14:45",
         "sessions": [
+            [108], [], [113], [120]
         ]
     }, {
-        "startTime": "14:50",
-        "endTime": "15:30",
+        "startTime": "15:00",
+        "endTime": "15:45",
         "sessions": [
+            [106], [110], [113], [120]
         ]
     }, {
-        "startTime": "15:30",
-        "endTime": "16:00",
+        "startTime": "15:45",
+        "endTime": "16:30",
         "sessions": [
             [134]
         ]
     }, {
-        "startTime": "16:00",
-        "endTime": "16:40",
+        "startTime": "16:30",
+        "endTime": "17:15",
         "sessions": [
+            [121], [], [], [120]
         ]
     }, {
-        "startTime": "16:50",
-        "endTime": "17:30",
+        "startTime": "17:30",
+        "endTime": "18:15",
         "sessions": [
+            [], [], [], []
         ]
     }, {
         "startTime": "17:40",
         "endTime": "18:20",
-        "sessions": [
-        ]
-    }, {
-        "startTime": "18:30",
-        "endTime": "22:30",
         "sessions": [
             [137]
         ]
@@ -92,60 +91,83 @@
         "title": "First Floor"
     }, {
         "title": "Third Floor"
+    }, {
+        "title": "Workshop 1"
+    }, {
+        "title": "Workshop 2"
     }],
-    "timeslots": [{
-        "startTime": "09:30",
-        "endTime": "10:10",
+    "timeslots": [
+    {
+        "startTime": "08:45",
+        "endTime": "10:00",
         "sessions": [
-            [135]
+            [132]
         ]
     }, {
-        "startTime": "10:10",
-        "endTime": "10:50",
+        "startTime": "09:30",
+        "endTime": "09:45",
         "sessions": [
+            [136]
+        ]
+    }, {
+        "startTime": "10:00",
+        "endTime": "10:45",
+        "sessions": [
+            [104], [109], [], []
         ]
     }, {
         "startTime": "11:00",
-        "endTime": "11:40",
+        "endTime": "11:45",
         "sessions": [
+            [], [117], [124], [] 
         ]
     }, {
-        "startTime": "11:50",
-        "endTime": "12:30",
+        "startTime": "12:00",
+        "endTime": "12:45",
         "sessions": [
+            [111], [118], [124], []
         ]
     }, {
-        "startTime": "12:30",
+        "startTime": "12:45",
         "endTime": "14:00",
         "sessions": [
             [133]
         ]
     }, {
         "startTime": "14:00",
-        "endTime": "14:40",
+        "endTime": "14:45",
         "sessions": [
+            [103], [119], [], []
         ]
     }, {
-        "startTime": "14:50",
-        "endTime": "15:30",
+        "startTime": "15:00",
+        "endTime": "15:45",
         "sessions": [
+            [107], [122], [], []
         ]
     }, {
-        "startTime": "15:30",
-        "endTime": "16:00",
+        "startTime": "15:45",
+        "endTime": "16:30",
         "sessions": [
             [134]
         ]
     }, {
-        "startTime": "16:00",
-        "endTime": "16:40",
+        "startTime": "16:30",
+        "endTime": "17:15",
         "sessions": [
+            [], [115], [123], []
         ]
     }, {
-        "startTime": "16:50",
-        "endTime": "17:30",
+        "startTime": "17:30",
+        "endTime": "18:15",
         "sessions": [
-            [138]
+            [], [], [], [123]
+        ]
+    }, {
+        "startTime": "17:40",
+        "endTime": "18:20",
+        "sessions": [
+            [137]
         ]
     }]
 }]
