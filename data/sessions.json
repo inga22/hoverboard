@@ -56,6 +56,45 @@
     },
 
 
+    "124": {
+        "id": 124,
+        "title": "Firebase Codelab",
+        "description": "Learn how to use Firebase through building a chat app.",
+        "speakers": [
+            4
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Android","Web"
+        ]
+    },
+    "123": {
+        "id": 123,
+        "title": "OOCSS + BEM",
+        "description": "Explain what OOCSS is and how methodologies like BEM can help achieve that. The plan would be to give a brief overview and teach the participants real use-cases with coding exercises/examples where they must use BEM methodology to have a better understanding of how to implement it as OOCSS and see the results in a site's page CSS performance.",
+        "speakers": [
+            24
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Web"
+        ]
+    },
+    "122": {
+        "id": 122,
+        "title": "Angular 2 - TypeScript to the Rescue?",
+        "description": "Angular 2 wird komplett in TypeScript entwickelt, was ein hohes Qualitätsniveau mit sich bringt, denn hinsichtlich Wart- und Wiederverwendbarkeit werden in JavaScript neue Maßstäbe gesetzt. Mittels TypeScript greift Angular 2 also auf die Verwendung kommender Funktionalitäten von ECMAScript zu, was einen hohen Wert an Entwicklungspraktiken mitbringt. In diesem Talk werden die Grundlagen von Angular 2 näher gebracht und mit TypeScript verdeutlicht wie eine Webanwendung  aufgebaut werden kann. Zudem wird ein Ausblick auf NativeScript mit Angular gegeben.",
+        "speakers": [
+            23
+        ],
+        "language": "German",
+        "complexity": "Beginner",
+        "tags": [
+            "Web"
+        ]
+    },
     "121": {
         "id": 121,
         "title": "The Bleeding Edge of Android Development",
