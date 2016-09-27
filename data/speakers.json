@@ -628,5 +628,51 @@
       ],
       "badges": [],
       "socials": []
+    },
+    "23": {
+      "id": 23,
+      "featured": "true",
+      "name": "Martin Reinhard",
+      "title": "Senior Consultant",
+      "company": "Holisticon AG",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/holisticon.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/martin_r.jpg",
+      "shortBio": "",
+      "bio": "Martin Reinhardt arbeitet als Architekt bei der Management- und IT-Unternehmensberatung Holisticon AG. Er beschäftigt sich dort mit der Architektur von komplexen verteilten Systemen, modernden Webarchitekturen und Build Management. Martin engagiert sich in der Software-Craftsmanship-Bewegung. Er ist seit mehreren Jahren im Bereich der Java- und Webentwicklung tätig. Außerdem setzt er sich neben der Architektur vor allem für die Testautomatisierung in verschiedenen Technologien ein und ist auch in verschieden OpenSource-Projekten zu dem Thema tätig.",
+      "tags": [
+        "Web"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "Website",
+          "icon": "website",
+          "link": "https://www.holisticon.de"
+        }
+      ]
+    },
+    "24": {
+      "id": 24,
+      "featured": "true",
+      "name": "Diana Ilithya",
+      "title": "",
+      "company": "Women Techmakers Hamburg",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/wtm.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/diana.jpg",
+      "shortBio": "",
+      "bio": "Freelance Web Designer and Front-End Developer, originally from México, residing in Germany. In the web world, she enjoys crafting illustrations and animating them with pure CSS. In the real world, she enjoys live music, baking, sports and traveling. Her design and coding skills are completely self-taught, thus she'd like to inspire others to learn by themselves.",
+      "tags": [
+        "Web"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "Website",
+          "icon": "website",
+          "link": "https://www.moinworld.de"
+        }
+      ]
     }
 }
