@@ -128,7 +128,7 @@
       "title": "",
       "company": "Google",
       "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/google.png",
-      "country": "Germany",
+      "country": "USA",
       "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/frank_van_puffelen.jpg",
       "shortBio": "",
       "bio": "Frank is an engineer for Firebase at Google. He helps developers build extraordinary apps that use Firebase as their back-end. If you've ever asked a Firebase question on StackOverflow, you've probably met Frank already.",
@@ -476,7 +476,7 @@
       "country": "germany",
       "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/niklas.jpg",
       "shortBio": "",
-      "bio": "",
+      "bio": "Niklas Baudy, Android Developer at Familo in Hamburg, is an affine and young developer who is passionate about Reactive Programming and testable code.",
       "tags": [
         "Android"
       ],
@@ -672,6 +672,96 @@
           "name": "Website",
           "icon": "website",
           "link": "https://www.moinworld.de"
+        }
+      ]
+    },
+    "25": {
+      "id": 25,
+      "featured": "true",
+      "name": "Teodor Stoev",
+      "title": "Senior Software Developer",
+      "company": "Ligatus Group",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/ligatus.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/teodor.jpg",
+      "shortBio": "",
+      "bio": "Teodor is a Senior Software Developer at Ligatus Group with a focus on optimization of software development, Continuous Delivery and innovation in software architecture. He has solid experience with Java and web technologies, including high-performance distributed applications. Research, evaluation and integration of new software technologies are part of his daily responsibilities.",
+      "tags": [
+        "Cloud"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "Website",
+          "icon": "website",
+          "link": "http://www.ligatus.com"
+        }
+      ]
+    },
+    "26": {
+      "id": 26,
+      "featured": "true",
+      "name": "Lukas Masuch",
+      "title": "",
+      "company": "SAP SE",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/sap.jpg",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/lukas.jpg",
+      "shortBio": "",
+      "bio": "I'm a passionate software engineer, excited about cutting-edge technologies. I love to explore disruptive ideas and build stuff that solves real problems. As a software developer, I have worked on various projects involving Android, Web and Big Data. In the recent years, I have done plenty of research in making applications more intelligent by using Machine Learning, Deep Learning and Graph Technologies.",
+      "tags": [
+        "Machine Learning"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "Website",
+          "icon": "website",
+          "link": "http://lukasmasuch.com"
+        }
+      ]
+    },
+    "27": {
+      "id": 27,
+      "featured": "true",
+      "name": "Hasan Hosgel",
+      "title": "Android Developer",
+      "company": "ImmobilienScout24",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/immobilienscout24.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/hasan.jpg",
+      "shortBio": "",
+      "bio": "Hasan Hoşgel is a dedicated Android developer with over fiveteen years of professional programming experience. Since 2010 doing all day long Android application development and also is a Google Developer Expert for Android.<br>Continuous improvement of the architecture, performance and also quality are his dedication.<br>He works since 2006 for ImmobilienScout24, Germany’s real estate marketplace leader. With a short intermezzo at Kitchen Stories, which offered a premium cooking application.<br>As a co-organizer of the “GDG Berlin Android” and as a speaker he attended many mobile conferences and several Google Developer Groups across Europe. As well being in program committees and organization of mobile conferences.",
+      "tags": [
+        "Android"
+      ],
+      "badges": [
+        {
+          "name": "GDE",
+          "description": "Google Developer Expert for Android",
+          "link": "https://developers.google.com/experts/people/hasan-hosgel"
+        },
+        {
+          "name": "GDG",
+          "description": "GDG Berlin Android",
+          "link": "https://developers.google.com/groups/chapter/102464661817600154044/"
+        }
+      ],
+      "socials": [
+        {
+          "name": "GitHub",
+          "icon": "github",
+          "link": "https://github.com/alosdev"
+        },
+        {
+          "name": "Twitter",
+          "icon": "twitter",
+          "link": "https://twitter.com/alosdev"
+        },
+        {
+          "name": "Website",
+          "icon": "website",
+          "link": "http://hosgel.berlin"
         }
       ]
     }
