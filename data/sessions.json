@@ -55,7 +55,45 @@
         "image": "/images/backgrounds/registration.jpg"
     },
 
-
+    "127": {
+        "id": 127,
+        "title": "Let's Map It!",
+        "description": "In this session you will get an overview what we can do these days with Google Maps on Android. A small history recap will be given and also a guide for the setup. We will learn, how we can change the styling of the map, using overlays, heat maps, street view and how we can cluster markers.",
+        "speakers": [
+            27
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Android"
+        ]
+    },
+    "126": {
+        "id": 126,
+        "title": "From on-premise to containers - our CI/CD journey into the cloud",
+        "description": "When we discovered that our move from a self-hosted environment to a continuous delivery, cloud-based setup, was held back by our “old-fashioned” CI solution (built around Jenkins), we switched gears. Employing a rapid pace approach, we designed and are currently building a new build and deployment system. With the Google Cloud in mind, we opted for cutting-edge tools and technologies, such as Google Compute Engine, Kubernetes, Google Deployment Manager and more, to achieve a fault-tolerant, scalable, maintainable and fun-to-use experience.<br>We will show you what we left behind, where we currently are and what is still ahead of us.",
+        "speakers": [
+            25
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Cloud"
+        ]
+    },
+    "125": {
+        "id": 125,
+        "title": "Deep Learning - The Past, Present and Future of Artificial Intelligence",
+        "description": "TLDR: This talk is a basic introduction to Deep Learning<br><br>In the last couple of years, deep learning techniques have transformed the world of artificial intelligence. One by one, the abilities and techniques that humans once imagined were uniquely our own have begun to fall to the onslaught of ever more powerful machines. Deep neural networks are now better than humans at tasks such as face recognition and object recognition. They’ve mastered the ancient game of Go and thrashed the best human players. “The pace of progress in artificial general intelligence is incredible fast” (Elon Musk – CEO Tesla & SpaceX) leading to an AI that “would be either the best or the worst thing ever to happen to humanity” (Stephen Hawking – Physicist).<br>What sparked this new hype? How is Deep Learning different from previous approaches? Let’s look behind the curtain and unravel the reality. This talk will introduce the core concept of deep learning, explore why Sundar Pichai (CEO Google) recently announced that “machine learning is a core transformative way by which Google is rethinking everything they are doing” and explain why “deep learning is probably one of the most exciting things that is happening in the computer industry“ (Jen-Hsun Huang – CEO NVIDIA).",
+        "speakers": [
+            26
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Machine Learning"
+        ]
+    },
     "124": {
         "id": 124,
         "title": "Firebase Codelab",
