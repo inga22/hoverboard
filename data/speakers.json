@@ -764,5 +764,33 @@
           "link": "http://hosgel.berlin"
         }
       ]
+    },
+    "28": {
+      "id": 28,
+      "featured": "true",
+      "name": "Florina Muntenescu",
+      "title": "Android Developer",
+      "company": "upday",
+      "companyLogo": "https://gdg-devfest2016.firebaseapp.com/images/company/upday.png",
+      "country": "Germany",
+      "photoUrl": "https://gdg-devfest2016.firebaseapp.com/images/people/florina.jpg",
+      "shortBio": "",
+      "bio": "Florina passionately works at upday as a Senior Android Developer. She has been writing code for more than 7 years, mostly for Android. Florina keeps a strong focus on clean code and UI/UX. Previous work covered payment solutions at payleven and navigation services at Garmin.",
+      "tags": [
+        "Android"
+      ],
+      "badges": [],
+      "socials": [
+        {
+          "name": "GitHub",
+          "icon": "github",
+          "link": "https://github.com/upday"
+        },
+        {
+          "name": "Website",
+          "icon": "website",
+          "link": "http://upday.github.io"
+        }
+      ]
     }
 }
