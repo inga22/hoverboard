@@ -9,5 +9,5 @@ module.exports = {
     '/data/**/*'
   ],
   navigateFallback: '/index.html',
-  cacheId : 'gdghamburg-v19'
+  cacheId : 'gdghamburg-v20'
 };
